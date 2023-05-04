@@ -1,0 +1,14 @@
+[
+    {
+        "name": "project 1",
+        "description": "este es un proyecto de e-commerce dedicado a la impresión 3d",
+        "image": "",
+        "link": ""
+    },
+    {
+        "name": "project 2",
+        "description": "este es un proyecto de una langding page para una empresa dedicada al desarrollo de software",
+        "image": "",
+        "link": ""
+    }
+]
